@@ -23,5 +23,5 @@
 8. Create the ML model and train it with data prior to 2023.
   CT-create-model-incidents-agg.sql
 
-9. Use the ML model to predict the 2023 data.
+9. Use the ML model to test predictions with the 2023 data.
   CT-ml-predict-incidents-agg.sql
