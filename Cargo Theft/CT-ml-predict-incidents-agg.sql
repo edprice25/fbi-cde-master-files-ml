@@ -1,4 +1,4 @@
--- Use the ML model to predict the 2023 data.
+-- Use the ML model to test predictions with the 2023 data.
 SELECT
   CAST(ROUND(predicted_count_incident) AS INT64) as round_predicted_count_incident,
   *
